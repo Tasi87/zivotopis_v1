@@ -1,0 +1,21 @@
+.sidebar {
+	background-color: #593A28;
+	color: #F2D6A2;
+}
+
+.profile-photo {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	object-fit: cover;
+	margin: 0 15%;
+}
+
+a {
+	color: #FF6B1E;
+}
+
+a:focus,
+a:hover {
+	color: aqua;
+}

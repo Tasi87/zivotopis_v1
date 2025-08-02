@@ -5,7 +5,7 @@ import './MainContent.css';
 
 function MainContent() {
 	return (
-		<div>
+		<div className='main-content'>
 			Main Content
 		</div>
 	)
