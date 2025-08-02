@@ -8,10 +8,10 @@ function App() {
 	<div>
 		<div className="container-fluid">
 			<div className="row">
-				<div className="col col-md-2 p-0">
+				<div className="col col-sm-2 p-0">
 					<Sidebar />
 				</div>
-				<div className="col col-md-10 p-0">
+				<div className="col col-sm-10 p-0">
 					<MainContent />
 				</div>
 			</div>

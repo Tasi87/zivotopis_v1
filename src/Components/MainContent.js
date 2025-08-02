@@ -1,4 +1,5 @@
-
+// imports
+import Tabs from './Tabs';
 
 // styles
 import './MainContent.css';
@@ -6,7 +7,7 @@ import './MainContent.css';
 function MainContent() {
 	return (
 		<div className='main-content'>
-			Main Content
+			<Tabs />
 		</div>
 	)
 }
