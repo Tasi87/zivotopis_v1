@@ -1,6 +1,11 @@
 .sidebar {
 	background-color: #593A28;
 	color: #F2D6A2;
+	padding: 1.5rem;
+	position: sticky;
+	top: 0;
+	min-height: 100vh;
+	min-width: 294px;
 }
 
 .profile-photo {
@@ -13,6 +18,10 @@
 
 a {
 	color: #FF6B1E;
+}
+
+h2 {
+	color: #75B2BF;
 }
 
 a:focus,
