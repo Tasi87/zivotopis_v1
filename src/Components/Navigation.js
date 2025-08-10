@@ -16,22 +16,22 @@ function Navigation() {
 					<div className="collapse navbar-collapse flex-grow-0" id="navMenu">
 						<ul className="navbar-nav ms-auto">
 							<li className="nav-item">
-								<a href="#AboutMe" className="nav-link">
+								<a href="#aboutMe" className="nav-link">
 									O mne
 								</a>
 							</li>
 							<li className="nav-item">
-								<a href="#Education" className="nav-link">
+								<a href="#education" className="nav-link">
 									Vzdelanie
 								</a>
 							</li>
 							<li className="nav-item">
-								<a href="#Experience" className="nav-link">
+								<a href="#experience" className="nav-link">
 									Skúsenosti
 								</a>
 							</li>
 							<li className="nav-item">
-								<a href="#Skills" className="nav-link">
+								<a href="#skills" className="nav-link">
 									Zručnosti
 								</a>
 							</li>

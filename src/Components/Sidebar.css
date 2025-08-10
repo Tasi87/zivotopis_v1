@@ -8,13 +8,7 @@
 	min-width: 294px;
 }
 
-.profile-photo {
-	width: 150px;
-	height: 150px;
-	border-radius: 50%;
-	object-fit: cover;
-	margin: 0 15%;
-}
+
 
 a {
 	color: #FF6B1E;
