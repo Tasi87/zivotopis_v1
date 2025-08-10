@@ -6,7 +6,7 @@ import './AboutMe.css'
 
 const AboutMe = () => {
 	return (
-		<section id="aboutMe" className="container-fluid py-5 bg-secondary text-light">
+		<section id="aboutMe" className="container-fluid py-5">
 				<div className="contaner px-2">
 					<div className="row">
 						<div className="col-12 col-lg-6">
