@@ -6,7 +6,7 @@ const Footer = () => {
 		<section id="experience" className="container-fluid py-5 experience">
 			<div className="container">
 				<p>
-					Mojim cieľom je začať ako stážista v programátorskej firme, kde sa môžem neustále zlepšovať a učiť sa novým zručnostiam a v budúcnosti aby sa mojou hlavnou pracovnou náplňou stalo programovanie.
+					Mojim cieľom je začať ako stážista v programátorskej firme, kde sa môžem posúvať dopredu a získavať nové skúsenosti.
 				</p>
 			</div>
 		</section>
