@@ -6,16 +6,15 @@ import Sidebar from "./Components/Sidebar";
 function App() {
   return (
 	<div>
-		<div className="container-fluid">
-			<div className="row">
-				<div className="col col-sm-2 p-0">
-					<Sidebar />
-				</div>
-				<div className="col col-sm-10 p-0">
-					<MainContent />
-				</div>
-			</div>
-		</div>
+		<header>
+			<nav className="navbar navbar-expand-lg bg-light fixed-top">
+				<section className="container">
+					<div className="navbar-brand">
+						<i className="bi bi-file-earmark-person text-warning fs-3 d-inline-block aligne-middle"></i>
+					</div>
+				</section>
+			</nav>
+		</header>
 	 </div>
   );
 }

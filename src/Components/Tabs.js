@@ -7,7 +7,9 @@ import Education from './tabs/Education';
 
 function Tabs() {
 	return (
-		<div></div>
+		<div>
+			
+		</div>
 	)
 }
 
