@@ -9,7 +9,7 @@ const AboutMe = () => {
 		<section id="aboutMe" className="container-fluid py-5 bg-secondary text-light">
 				<div className="contaner">
 					<div className="row">
-						<div className="col-lg-7">
+						<div className="col-12 col-lg-6">
 							<h2 className="display-4">O mne</h2>
 							<p>
 								Rád sa vzdelávam, učím novým zručnostiam a potom ich odovzdávam iným. Som komunikatívny typ, čoho dôkazom je práca s deťmi aj dospelými (tréner, inštruktor). Mojou záľubou je športové lezenie na skalách, horolezectvo, pobyt v prírode, inštruktorovanie a trénovanie, čítanie, cestovanie, záujem o kinematografiu, spoločenské alebo počítačové hry.
@@ -40,7 +40,7 @@ const AboutMe = () => {
 								<li>B</li>
 							</ul>
 						</div>
-						<div className="col-lg-5 text-end align-top">
+						<div className="col-12 col-lg-4 text-center align-top">
 							<img src={profilePhoto} alt="Profil" className='profile-photo' />
 						</div>
 					</div>
