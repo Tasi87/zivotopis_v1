@@ -6,8 +6,8 @@ import './AboutMe.css'
 
 const AboutMe = () => {
 	return (
-		<section id="aboutMe" className="container-fluid py-5">
-				<div className="contaner px-2">
+		<section id="aboutMe" className="container-fluid py-5 aboutMe">
+				<div className="container">
 					<div className="row">
 						<div className="col-12 col-lg-6">
 							<h2 className="display-4">O mne</h2>

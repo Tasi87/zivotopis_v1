@@ -4,7 +4,7 @@ import './Navigation.css'
 function Navigation() {
 	return(
 		<nav className="navbar navbar-expand-lg fixed-top">
-				<section className="container mx-1">
+				<section className="container">
 					<div className="navbar-brand">
 						<h3 className='nav-text'>
 							Tahssain Amir

@@ -1,3 +1,6 @@
+// styles
+import './Skills';
+
 const Skills = () => {
 	return (
 		<div>

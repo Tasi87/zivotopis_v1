@@ -3,8 +3,8 @@ import './Education.css';
 
 const Education = () => {
 	return (
-		<section id="education" className="container-fluid py-5">
-				<div className="container px-2 mx-0">
+		<section id="education" className="container-fluid py-5 education">
+				<div className="container">
 					<h2>Vzdelanie</h2>
 					<ul>
 						<li>Spetember 2003 - Máj 2007</li>

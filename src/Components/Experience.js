@@ -1,7 +1,10 @@
+// styles
+import './Experience.css';
+
 const Experience = () => {
 	return (
-		<section id="experience" className="container-fluid py-5">
-			<div className="container px-2 mx-0">
+		<section id="experience" className="container-fluid py-5 experience">
+			<div className="container">
 				
 				<h2>Skúsenosti</h2>
 				<p>Pracovné skúsenosti</p>

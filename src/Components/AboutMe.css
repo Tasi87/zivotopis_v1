@@ -4,3 +4,11 @@
 	border-radius: 50%;
 	object-fit: cover;
 }
+
+.aboutMe {
+	background-color: #F2CC85;
+}
+
+a {
+	color: #607EA6;
+}
