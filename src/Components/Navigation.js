@@ -3,7 +3,7 @@
 function Navigation() {
 	return(
 		<nav className="navbar navbar-expand-lg bg-light fixed-top">
-				<section className="container">
+				<section className="container mx-1">
 					<div className="navbar-brand">
 						<i className="bi bi-file-earmark-person text-info fs-2 d-inline-block aligne-middle"></i>
 						Životopis
