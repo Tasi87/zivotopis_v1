@@ -1,8 +1,8 @@
 // photo
-import profilePhoto from '../assets/Profilovka - kópia.jpg'
+import profilePhoto from '../assets/Profilovka - kópia.jpg';
 
 // styles
-import './AboutMe.css'
+import './AboutMe.css';
 
 const AboutMe = () => {
 	return (

@@ -1,7 +1,7 @@
 // styles
-import './Navigation.css'
+import './Navigation.css';
 
-function Navigation() {
+const Navigation = () => {
 	return(
 		<nav className="navbar navbar-expand-lg fixed-top">
 				<section className="container">
@@ -41,7 +41,7 @@ function Navigation() {
 					</div>
 				</section>
 			</nav>
-	)
-}
+	);
+};
 
 export default Navigation;
