@@ -19,6 +19,7 @@ const Skills = () => {
 							<li>JavaScript - certifikát</li>
 							<li>TypeScript - ešte sa učím</li>
 							<li>React</li>
+							<li>GitHub</li>
 							<li>Bootstrap</li>
 						</ul>
 					</div>
