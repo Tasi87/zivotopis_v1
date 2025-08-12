@@ -7,7 +7,7 @@ const Navigation = () => {
 				<section className="container">
 					<div className="navbar-brand">
 						<h3 className='nav-text my-0'>
-							Tahssain Amir TEST
+							Tahssain Amir
 						</h3>
 					</div>
 
