@@ -6,7 +6,7 @@ const Navigation = () => {
 		<nav className="navbar navbar-expand-lg fixed-top">
 				<section className="container">
 					<div className="navbar-brand">
-						<h3 className='nav-text'>
+						<h3 className='nav-text my-0'>
 							Tahssain Amir
 						</h3>
 					</div>

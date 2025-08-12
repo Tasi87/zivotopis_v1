@@ -1,12 +1,12 @@
 // photo
-import profilePhoto from '../assets/Profilovka - kópia.jpg';
+import profilePhoto from '../assets/Tasi-biela.jpeg';
 
 // styles
 import './AboutMe.css';
 
 const AboutMe = () => {
 	return (
-		<section id="aboutMe" className="container-fluid py-5 aboutMe">
+		<section id="aboutMe" className="container-fluid py-2 aboutMe">
 				<div className="container">
 					<div className="row">
 						<div className="col-12 col-lg-6">
