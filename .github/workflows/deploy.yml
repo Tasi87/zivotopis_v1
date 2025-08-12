@@ -28,4 +28,4 @@ jobs:
 
       - name: Deploy via rsync
         run: |
-          rsync -avzr --delete build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/zivotopis_v1
+          rsync -avzr --delete build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/zivotopis_v1/build
