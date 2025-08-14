@@ -13,3 +13,10 @@
 a {
 	color: #607EA6;
 }
+
+@media (max-width: 515px) {
+	.profile-photo {
+		width: 21rem;
+		height: 21rem;
+	}
+}
