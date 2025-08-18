@@ -24,7 +24,7 @@ const AboutMe = () => {
 								My interests include sport and rock climbing, mountaineering, spending time in nature, coaching, and instructing. In my free time, I also enjoy reading, traveling, cinema, as well as board and computer games.
 							</p>
 							<hr className="my-4" />
-							<h2>Contact Information</h2>
+							{/* <h2>Contact Information</h2>
 							<ul>
 								<li>Email: <a href="mailto:tasi87@gmail.com">tasi87@gmail.com</a></li>
 								<li>Phone: <a href="tel:+421911148320">+421 911 148 320</a></li>
@@ -36,7 +36,7 @@ const AboutMe = () => {
 										Slovakia
 									</address>
 								</li>
-							</ul>
+							</ul> */}
 							<h2>Languages</h2>
 							<ul>
 								<li><b>Slovak</b></li>
