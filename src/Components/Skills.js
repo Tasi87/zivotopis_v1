@@ -10,14 +10,14 @@ const Skills = () => {
 			<div className="container">
 				<div className="row">
 					<div className="col-12 col-lg-6">
-						<h2>Zručnosti</h2>
+						<h2>Skills</h2>
 						<ul>
 							<li>Microsoft Office</li>
-							<li>SAP systém</li>
+							<li>SAP system</li>
 							<li>Visual Studio Code</li>
 							<li>HTML a CSS</li>
-							<li>JavaScript - certifikát</li>
-							<li>TypeScript - ešte sa učím</li>
+							<li>JavaScript - certified</li>
+							<li>TypeScript - currently learning</li>
 							<li>React</li>
 							<li>GitHub</li>
 							<li>Bootstrap</li>

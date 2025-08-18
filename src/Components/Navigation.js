@@ -19,22 +19,22 @@ const Navigation = () => {
 						<ul className="navbar-nav ms-auto">
 							<li className="nav-item">
 								<a href="#aboutMe" className="nav-link nav-text">
-									O mne
+									About me
 								</a>
 							</li>
 							<li className="nav-item">
 								<a href="#education" className="nav-link nav-text">
-									Vzdelanie
+									Education
 								</a>
 							</li>
 							<li className="nav-item">
 								<a href="#experience" className="nav-link nav-text">
-									Skúsenosti
+									Experience
 								</a>
 							</li>
 							<li className="nav-item">
 								<a href="#skills" className="nav-link nav-text">
-									Zručnosti
+									Skills
 								</a>
 							</li>
 						</ul>

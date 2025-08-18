@@ -6,85 +6,84 @@ const Experience = () => {
 		<section id="experience" className="container-fluid py-5 experience">
 			<div className="container">
 				
-				<h2>Skúsenosti</h2>
-				<p>Pracovné skúsenosti</p>
+				<h2>Experience</h2>
+				<p>Work Experience</p>
 				<ul>
-					<li>Október 2019 - Súčasnosť</li>
+					<li>October 2019 - Present</li>
 					<p>
-						<b>Inštruktor lezenia na umelej stene</b> <br />
+						<b>Climbing Instructor (Indoor climbing)</b> <br />
 						VENGA, s.r.o., <br />
-						Bratislava II, Slovenská republika
+						Bratislava II, Slovak Republic
 					</p>
-					<li>Jún 2019 - 2023</li>
+					<li>June 2019 - 2023</li>
 					<p>
-						<b>Vodič UBER</b> <br />
-						Tahssain Amir (Živnosť), <br />
-						Bratislava II, Slovenská republika
+						<b>UBER Driver</b> <br />
+						Tahssain Amir (Self-employed), <br />
+						Bratislava II, Slovak Republic
 					</p>
-					<li>Júl 2014 - Súčasnosť</li>
+					<li>Júl 2014 - Present</li>
 					<p>
-						<b>Technologický dispečer</b> <br />
+						<b>Technological Dispatcher</b> <br />
 						Bratislavská vodárenská spoločnosť, a.s., <br />
-						Bratislava II, Slovenská republika <br />
-						Riadenie technológie odvádzania odpadových vôd a hlásenie porúch výjazdovým skupinám.
+						Bratislava II, Slovak Republic <br />
+						Managing waste water treatment technology and reporting malfunctions to field teams.
 					</p>
-					<li>November 2015 - Marec 2016</li>
+					<li>November 2015 - March 2016</li>
 					<p>
-						<b>Dokladač tovaru/merchandiser</b> <br />
+						<b>Stock Clerk / Merchandiser</b> <br />
 						BILLA s.r.o., <br />
-						Bratislava II, Slovenská republika
+						Bratislava II, Slovak Republic
 					</p>
-					<li>Júl 2009 - Jún 2014</li>
+					<li>July 2009 - June 2014</li>
 					<p>
-						<b>Kuchár, predavač</b> <br />
+						<b>Cook, Sales Assistant</b> <br />
 						McDonald, <br />
-						Bratislava I, Slovenská republika <br />
-						Príprava sendvičov a predaj.
+						Bratislava I, Slovak Republic
 					</p>
-					<li>Marec 2014 - Máj 2014</li>
+					<li>March 2014 - May 2014</li>
 					<p>
-						<b>Finančný poradca</b> <br />
+						<b>Financial Advisor</b> <br />
 						Slovenská sporiteľna, a.s., <br />
-						Bratislava I, Slovenská republika
+						Bratislava I, Slovak Republic
 					</p>
-					<li>Október 2008 - Apríl 2009</li>
+					<li>October 2008 - April 2009</li>
 					<p>
-						<b>Finančný agent</b> <br />
-						KONTINUITA poisťovňa, a.s. <br />
+						<b>Financial Agent</b> <br />
+						KONTINUITA Insurance, a.s. <br />
 						Vienna Insurance Group, <br />
-						Bratislava I, Slovenská republika
+						Bratislava I, Slovak Republic
 					</p>
-					<li>Marec 2008 - Júl 2008</li>
+					<li>March 2008 - July 2008</li>
 					<p>
-						<b>OZ, dokladanie tovaru</b> <br />
+						<b>Stock Clerk</b> <br />
 						BILLA s.r.o., <br />
-						Bratislava IV, Slovenská republika
+						Bratislava IV, Slovak Republic
 					</p>
-					<li>Január 2008 - Máj 2008</li>
+					<li>January 2008 - May 2008</li>
 					<p>
-						<b>Kuchár, čašník</b> <br />
+						<b>Cook, Waiter</b> <br />
 						Queensway Restaurants Slovakia s.r.o., <br />
-						Bratislava I, Slovenská republika
+						Bratislava I, Slovak Republic
 					</p>
-					<li>Jún 2007 - August 2007</li>
+					<li>June 2007 - August 2007</li>
 					<p>
-						<b>Mikrobiologický laborant</b> <br />
+						<b>Microbiological Laboratory Technician</b> <br />
 						HPL spol s.r.o., <br />
-						Bratislava IV, Slovenská republika, <br />
-						Práca s biologickými vzorkami na infekčnom pracovisku.
+						Bratislava IV, Slovak Republic, <br />
+						Working with biological samples in an infectious laboratory.
 					</p>
-					<li>Máj 2006 - Máj 2006</li>
+					<li>May 2006 - May 2006</li>
 					<p>
-						<b>Laborant v genetickom laboratóriu</b> <br />
-						Ústav experimentálnej onkológie Slovenskej akadémie vied, <br />
-						Bratislava III, Slovenská republika <br />
-						Odborná prax, identifikovanie pomocou laboratórnych metód genetické mutácie v DNA (dedičnosť rakoviny).
+						<b>Laboratory Intern (Genetics)</b> <br />
+						Institute of Experimental Oncology, Slovak Academy of Science, <br />
+						Bratislava III, Slovak Republic <br />
+						Identifying genetic mutations in DNA (cancer heredity) using laboratory methods.
 					</p>
-					<li>Máj 2003 - December 2004</li>
+					<li>May 2003 - December 2004</li>
 					<p>
-						<b>Predavač, kuchár</b> <br />
-						McDonalds, <br />
-						Bratislava III, Slovenská republika
+						<b>Sales Assistant, Cook</b> <br />
+						McDonald's, <br />
+						Bratislava III, Slovak Republic
 					</p>
 				</ul>
 			</div>

@@ -10,32 +10,37 @@ const AboutMe = () => {
 				<div className="container">
 					<div className="row">
 						<div className="col-12 col-lg-6">
-							<h2 className="display-4">O mne</h2>
+							<h2 className="display-4">About me</h2>
 							<p>
-								Rád sa vzdelávam, učím novým zručnostiam a potom ich odovzdávam iným. Som komunikatívny typ, čoho dôkazom je práca s deťmi aj dospelými (tréner, inštruktor). Mojou záľubou je športové lezenie na skalách, horolezectvo, pobyt v prírode, inštruktorovanie a trénovanie, čítanie, cestovanie, záujem o kinematografiu, spoločenské alebo počítačové hry.
+								I am eager to continuously learn and develop new skills, which I then enjoy sharing with others. I am communicative, as demonstrated by my experience working with both children and adults in roles such as coach and instructor.
+							</p>
+							<p>
+								My interests include sport climbing, mountaineering, spending time in nature, coaching and instructing. In my free time, I also enjoy reading, traveling, cinema, as well as board and computer games.
 							</p>
 							<hr className="my-4" />
-							<h2>Kontaktné údaje</h2>
+							<h2>Contact Information</h2>
 							<ul>
 								<li>Email: <a href="mailto:tasi87@gmail.com">tasi87@gmail.com</a></li>
-								<li>Telefón: <a href="tel:+421911148320">+421 911 148 320</a></li>
+								<li>Phone: <a href="tel:+421911148320">+421 911 148 320</a></li>
 								<li>
 									<address>
 										Prievozská 11, <br/>
 										821 09 <br/>
 										Bratislava II <br/>
-										Slovenská republika
+										Slovakia
 									</address>
 								</li>
 							</ul>
-							<h2>Jazyky</h2>
+							<h2>Languages</h2>
 							<ul>
-								<li><b>Anglický jazyk</b></li>
-								<p>Mierne pokročilý B1</p>
-								<li><b>Nemecký jazyk</b></li>
-								<p>Začiatočník A2</p>
+								<li><b>Slovak</b></li>
+								<p>Native</p>
+								<li><b>English</b></li>
+								<p>Intermediate B1</p>
+								<li><b>German</b></li>
+								<p>Beginner A2</p>
 							</ul>
-							<h2>Vodičský preukaz</h2>
+							<h2>Driving license</h2>
 							<ul>
 								<li>B</li>
 							</ul>
