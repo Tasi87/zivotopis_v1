@@ -12,10 +12,15 @@ const AboutMe = () => {
 						<div className="col-12 col-lg-6">
 							<h2 className="display-4">About me</h2>
 							<p>
-								I am eager to continuously learn and develop new skills, which I then enjoy sharing with others. I am communicative, as demonstrated by my experience working with both children and adults in roles such as coach and instructor.
+								I am eager to continuously learn and develop new skills, which I then enjoy sharing with others. I am communicative, with experience leading both children and adults as a coach and instructor.
 							</p>
 							<p>
-								My interests include sport climbing, mountaineering, spending time in nature, coaching and instructing. In my free time, I also enjoy reading, traveling, cinema, as well as board and computer games.
+								As an instructor, I conduct methodological courses both in climbing gyms and outdoors on rock faces as a rock instructor. During trainings and courses, I teach not only climbing techniques, but also essential mental preparation, working with fear of heights, fear of falling, and everything necessary to ensure my students learn what they need and my trainees are ready for competitions.
+
+								As a coach, I lead children’s training sessions, focusing not only on improving their climbing skills but also, for some, preparing them for various competitions and Slovak Cups.
+							</p>
+							<p>
+								My interests include sport and rock climbing, mountaineering, spending time in nature, coaching, and instructing. In my free time, I also enjoy reading, traveling, cinema, as well as board and computer games.
 							</p>
 							<hr className="my-4" />
 							<h2>Contact Information</h2>
