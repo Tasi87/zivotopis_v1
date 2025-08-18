@@ -28,43 +28,6 @@ const Experience = () => {
 						Bratislava II, Slovak Republic <br />
 						Managing waste water treatment technology and reporting malfunctions to field teams.
 					</p>
-					<li>November 2015 - March 2016</li>
-					<p>
-						<b>Stock Clerk / Merchandiser</b> <br />
-						BILLA s.r.o., <br />
-						Bratislava II, Slovak Republic
-					</p>
-					<li>July 2009 - June 2014</li>
-					<p>
-						<b>Cook, Sales Assistant</b> <br />
-						McDonald, <br />
-						Bratislava I, Slovak Republic
-					</p>
-					<li>March 2014 - May 2014</li>
-					<p>
-						<b>Financial Advisor</b> <br />
-						Slovenská sporiteľna, a.s., <br />
-						Bratislava I, Slovak Republic
-					</p>
-					<li>October 2008 - April 2009</li>
-					<p>
-						<b>Financial Agent</b> <br />
-						KONTINUITA Insurance, a.s. <br />
-						Vienna Insurance Group, <br />
-						Bratislava I, Slovak Republic
-					</p>
-					<li>March 2008 - July 2008</li>
-					<p>
-						<b>Stock Clerk</b> <br />
-						BILLA s.r.o., <br />
-						Bratislava IV, Slovak Republic
-					</p>
-					<li>January 2008 - May 2008</li>
-					<p>
-						<b>Cook, Waiter</b> <br />
-						Queensway Restaurants Slovakia s.r.o., <br />
-						Bratislava I, Slovak Republic
-					</p>
 					<li>June 2007 - August 2007</li>
 					<p>
 						<b>Microbiological Laboratory Technician</b> <br />
@@ -78,12 +41,6 @@ const Experience = () => {
 						Institute of Experimental Oncology, Slovak Academy of Science, <br />
 						Bratislava III, Slovak Republic <br />
 						Identifying genetic mutations in DNA (cancer heredity) using laboratory methods.
-					</p>
-					<li>May 2003 - December 2004</li>
-					<p>
-						<b>Sales Assistant, Cook</b> <br />
-						McDonald's, <br />
-						Bratislava III, Slovak Republic
 					</p>
 				</ul>
 			</div>

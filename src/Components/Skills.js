@@ -12,11 +12,11 @@ const Skills = () => {
 					<div className="col-12 col-lg-6">
 						<h2>Skills</h2>
 						<ul>
-							<li>Microsoft Office</li>
-							<li>SAP system</li>
-							<li>Visual Studio Code</li>
-							<li>HTML a CSS</li>
 							<li>JavaScript - certified</li>
+							<li>HTML a CSS</li>
+							<li>SAP system</li>
+							<li>Microsoft Office</li>
+							<li>Visual Studio Code</li>
 							<li>TypeScript - currently learning</li>
 							<li>React</li>
 							<li>GitHub</li>
