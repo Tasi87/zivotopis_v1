@@ -16,7 +16,8 @@ const AboutMe = () => {
 							</p>
 							<p>
 								As an instructor, I conduct methodological courses both in climbing gyms and outdoors on rock faces as a rock instructor. During trainings and courses, I teach not only climbing techniques, but also essential mental preparation, working with fear of heights, fear of falling, and everything necessary to ensure my students learn what they need and my trainees are ready for competitions.
-
+							</p>
+							<p>
 								As a coach, I lead children’s training sessions, focusing not only on improving their climbing skills but also, for some, preparing them for various competitions and Slovak Cups.
 							</p>
 							<p>
