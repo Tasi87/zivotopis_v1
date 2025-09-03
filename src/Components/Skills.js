@@ -1,5 +1,5 @@
 // image
-import certificate from '../assets/cerifikar_js conv_jpeg/cerifikar_js_1.jpeg';
+// import certificate from '../assets/cerifikar_js conv_jpeg/cerifikar_js_1.jpeg';
 
 // styles
 import './Skills.css';
