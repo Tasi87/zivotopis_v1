@@ -44,7 +44,7 @@ const AboutMe = () => {
 								<li><b>English</b></li>
 								<p>Intermediate B1</p>
 								<li><b>German</b></li>
-								<p>Beginner A2</p>
+								<p>Beginner A2 (still learning)</p>
 							</ul>
 							<h2>Driving license</h2>
 							<ul>
