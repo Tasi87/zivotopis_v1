@@ -23,9 +23,9 @@ const Skills = () => {
 							<li>Bootstrap</li>
 						</ul>
 					</div>
-					<div className="col-12 col-lg-4 text-center align-top">
+					{/* <div className="col-12 col-lg-4 text-center align-top">
 						<img className='certificate' src={certificate} alt="Certifikát" />
-					</div>
+					</div> */}
 				</div>
 			</div>
 		</section>
