@@ -1,5 +1,5 @@
 // Components
-// import Navigation from "./Components/Navigation";
+import Navigation from "./Components/Navigation";
 import AboutMe from "./Components/AboutMe";
 import Education from "./Components/Education";
 import Experience from "./Components/Experience";
@@ -10,7 +10,7 @@ function App() {
   return (
 	<div>
 		<header>
-			{/* <Navigation /> */}
+			<Navigation />
 		</header>
 		<main>
 			<AboutMe />
